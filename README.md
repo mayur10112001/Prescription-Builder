@@ -1,0 +1,2 @@
+# Prescription-Builder
+Work on a live project named PRESCRIPTION BUILDER. This application shows the Doctors the previous history of a particular patient and can prescribe on the basis of the history of a patient. The Doctor can register their assistant and patient easily, and the doctor can prescribe the patient based on disease using listed medicine and number of days, duration, etc. Also, the Doctor easily makes the receipts of patients by using this web application.
